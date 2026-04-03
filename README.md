@@ -11,7 +11,7 @@ Currently focused on building scalable backend systems and improving my understa
 
 ## Tools I Use
 
-Java • Spring Boot • Kafka • PostgreSQL • Docker • AWS • REST APIs
+Java • Spring Boot • Kafka • PostgreSQL • AWS • REST APIs
 
 ## Featured Work
 
