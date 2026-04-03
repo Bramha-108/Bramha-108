@@ -1,29 +1,22 @@
-# Hey, I’m Saksham 👋
+# Hey, I’m Saksham
 
-Backend-focused CSE (AI & ML) student who enjoys understanding how real systems work —  
-how they scale, communicate, and handle failure.
+Backend-focused CSE (AI & ML) student who enjoys understanding how real systems work — how they scale, communicate, and handle failure.
 
----
+## What I’m Working On
 
-## 🚀 What I’m Working On
-
-Currently focused on building **scalable backend systems** and improving my understanding of:
+Currently focused on building scalable backend systems and improving my understanding of:
 - Microservices architecture  
 - Event-driven systems  
 - Production-level system design  
 
----
+## Tools I Use
 
-## 🛠️ Tools I Use
+Java • Spring Boot • Kafka • PostgreSQL • Docker • AWS • REST APIs
 
-**Java • Spring Boot • Kafka • PostgreSQL • Docker • AWS • REST APIs**
+## Featured Work
 
----
-
-## 📌 Featured Work
-
-**Meetup** — a distributed backend system  
-- API Gateway + JWT  
+Meetup — a distributed backend system  
+- API Gateway with JWT authentication  
 - Kafka-based communication  
-- Eureka + Resilience4j  
-- Fully Dockerized  
+- Eureka for service discovery and Resilience4j for fault tolerance  
+- Fully Dockerized
