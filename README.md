@@ -19,4 +19,3 @@ Meetup — a distributed backend system
 - API Gateway with JWT authentication  
 - Kafka-based communication  
 - Eureka for service discovery and Resilience4j for fault tolerance  
-- Fully Dockerized
