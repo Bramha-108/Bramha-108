@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I’m Saksham 👋
 
-<!--
-**Bramha-108/Bramha-108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused CSE (AI & ML) student who enjoys understanding how real systems work —  
+how they scale, communicate, and handle failure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+
+Currently focused on building **scalable backend systems** and improving my understanding of:
+- Microservices architecture  
+- Event-driven systems  
+- Production-level system design  
+
+---
+
+## 🛠️ Tools I Use
+
+**Java • Spring Boot • Kafka • PostgreSQL • Docker • AWS • REST APIs**
+
+---
+
+## 📌 Featured Work
+
+**Meetup** — a distributed backend system  
+- API Gateway + JWT  
+- Kafka-based communication  
+- Eureka + Resilience4j  
+- Fully Dockerized  
